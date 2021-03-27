@@ -967,7 +967,8 @@ http://win1.yayin.com.tr/cine5/cine5/playlist.m3u8
 https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBA1NSa7QaIYQXhk-0NIym8qXyFQRG8jxyNA&usqp=CAU" group-title="ASTRO TEST",PURE PUNJABI TV
 http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="ASTRO TESTE",RED HBO
+
+#EXTINF:-1 tvg-logo="" group-title="ASTRO TEST",RED HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="ASTRO TEST",HBO SIGNATURE
@@ -979,11 +980,11 @@ https://www.dropbox.com/s/pv21nvv5ikap11w/HBOO.m3u8
 http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/83/Astro_Warna.jpg" group-title="ASTRO TEST", Astro Warna
 http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Jtp8Fz6/astro-ria.jpg" group-title="ASTRO MALAYSIA", Astro Ria
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jtp8Fz6/astro-ria.jpg" group-title="ASTRO TEST", Astro Ria
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/71/Astro_Prima_2006.png" group-title="ASTRO TEST", Astro Prima
 http://ts.lemmovie.com/30194138-4d0c-4243-9438-21fd15a7216b.m3u8
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aJSSFyHzgIw/Wj9k2fbQOBI/AAAAAAAAJ2w/Mwi2CR1Lp1kc--gIFYkEUHEDMFzqYVeuQCLcBGAs/s1600/AEC.jpg" group-title="ASTRO MALAYSIA", Astro AEC
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-aJSSFyHzgIw/Wj9k2fbQOBI/AAAAAAAAJ2w/Mwi2CR1Lp1kc--gIFYkEUHEDMFzqYVeuQCLcBGAs/s1600/AEC.jpg" group-title="ASTRO TEST", Astro AEC
 http://ts.lemmovie.com/e47300a4-e511-484f-b6dd-98de1483b71c.m3u8
 #EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428296_ico.png" group-title="ASTRO TEST",ASTRO NAURA
 https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_04.m3u8
@@ -995,12 +996,12 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp.png", Astro Supersports 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp2.png", Astro Supersports 2
 
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp3.png", Astro Supersports 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp4.png", Astro Supersports 4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="Movies",HBO HD
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="ASTRO TEST",HBO HD
 https://gratismkctv.net/film/hbo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9WJBzBH/foxmovies.png" group-title="ASTRO TEST", FOX MOVIES
