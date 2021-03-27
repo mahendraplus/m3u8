@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/s_c7/c79cc3ec72d0d91cd8b28de2833c12de.png" group-title="Pakistan" ,BOL NEWS HD
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616693483/ei/i3RcYOXTKrWGmgeMi7vQBQ/ip/60.50.51.243/id/uXBO91Ih2sI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24010698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMJF0jf2ANv5en_oDxxPkY56PySc-w2exD9TUF-MQcLwCICwFmaB17Is6L6-SUcutHXOa74RHsFJh1MmZuZyEMKXf/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/s_c7/c79cc3ec72d0d91cd8b28de2833c12de.png" group-title="Pakistan" ,GEO NEWS HD
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
 http://mlive.lahorenews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1311176151_b1200128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,GNN NEWS (HD)
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1616693828/ei/5HVcYP6_Kcuxz7sP5dOeuAw/ip/60.50.51.243/id/3WcZqMCqcAM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24010698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdPK1BhvaTFe9sz2t9caKZVa6HH9YEoI8zAUgiHQTBhMCIHeVFGusrfpP2zo7DwPf5ZBo84HRhukQdJVWcIvqty26/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,DUNYA NEWS (HD)
+https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w313768103_b892928.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,EXPRESS NEWS (HD)
+https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w638840335.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,PTV NEWS (HD)
+https://live.ptv.com.pk/live/ptvnews/chunklist_w711801155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1251214552584380417/wcBqAsB5_400x400.jpg" group-title="Pakistan" ,KING TV
