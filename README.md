@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.logolynx.com/images/logolynx/s_c7/c79cc3ec72d0d91cd8b28de2833c12de.png" group-title="Pakistan" ,GEO NEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/a5/4f/5a/a54f5ac68c6cb0e9e92ed026f0d94586.jpg" group-title="Pakistan" ,GEO NEWS HD
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
 http://mlive.lahorenews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1311176151_b1200128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,DUNYA NEWS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hamariweb.com/mobiles/showimage.aspx?aid=727" group-title="Pakistan" ,DUNYA NEWS (HD)
 https://intl.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/chunklist_w313768103_b892928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,EXPRESS NEWS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.winudf.com/v2/image/Y29tLmVib3VuZHNlcnZpY2VzLmV4cHJlc3Nfc2NyZWVuc2hvdHNfMF9iNWFmNWY3MA/screen-0.jpg?fakeurl=1&h=500" group-title="Pakistan" ,EXPRESS NEWS (HD)
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w638840335.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.dishurdu.com/images/GNN-News-Logo.png" group-title="Pakistan" ,PTV NEWS (HD)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.awamiweb.com/wp-content/uploads/2016/02/ptv-news-new-logo-300x282.jpg" group-title="Pakistan" ,PTV NEWS (HD)
 https://live.ptv.com.pk/live/ptvnews/chunklist_w711801155.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="Pakistan" ,92 NEWS (HD)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
