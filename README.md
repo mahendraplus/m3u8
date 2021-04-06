@@ -437,7 +437,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 ch-id="FoxNews" tvg-logo="http://static.iptv-epg.com/us/FoxNews.us.png" group-title="NEWS",Fox News
 https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/CNN.uk.png" group-title="NEWS",CNN HD
-https://cdn10jtedge.useetv.com/joss/15/cnninternational/chunklist_w1206010890_b1344100_sleng_kamiselaluada.m3u8?enc=Dr5JPWaxXFWIhlBo6GVLGA&uid=MGZmOWFhNjc4ZTk1MTZhYTY3MGUzZGI2NTA3MDc1ZDE=&exp=1615748417
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="NEWS",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="NEWS",CBS News
