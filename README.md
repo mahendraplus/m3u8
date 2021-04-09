@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/a5/4f/5a/a54f5ac68c6cb0e9e92ed026f0d94586.jpg" group-title="Pakistan" ,GEO NEWS HD
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream2/chunks_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://lh6.ggpht.com/d8CEnfmfPmdPsIyeROob_kzq0gkeRr_WOw9XZEhREwt08drnK8t91WNjJAOs362EtJez=h300" group-title="Pakistan" ,GEO TEZ 
+https://zkpywe62ybeg-hls-live.5centscdn.com/geoAk/f0774392a2bb84b9f02749fdc9b5d65f.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/1225405516593188865/yXpmlBW4_400x400.jpg" group-title="Pakistan" ,LAHORE NEWS (HD)
 http://mlive.lahorenews.tv/lahorelive/ngrp:lnews_1_all/chunklist_w1311176151_b1200128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://hamariweb.com/mobiles/showimage.aspx?aid=727" group-title="Pakistan" ,DUNYA NEWS (HD)
