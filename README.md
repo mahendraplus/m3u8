@@ -1002,6 +1002,8 @@ http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp.png", Astro Supersports 1
 http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 group-title="ASTRO TEST" tvg-logo="https://static.epg.best/us/HBO.us.png", HBO ASIA HD
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:-1 group-title="ASTRO TEST" tvg-logo="http://dusktill.masuk.web.id/img/assp3.png", Astro Supersports 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
