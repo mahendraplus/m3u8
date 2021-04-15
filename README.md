@@ -742,7 +742,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/04.m3u8
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 ch-id="TV 2" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="MY/SG",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8 
-#EXTINF:-1 ch-id="TV 2" tvg-logo="https://d1marr3m5x4iac.cloudfront.net/images/edpborder500/I0-001/004/341/688-1.jpeg_/tv3-malaysia-88.jpeg" group-title="MY/SG",TV3
+#EXTINF:-1 ch-id="TV 2" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="MY/SG",TV3
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
 #EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="MY/SG",Astro Ria
