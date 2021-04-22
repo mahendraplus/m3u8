@@ -1096,5 +1096,29 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
  (Astro Hua Hee Dai)
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="UK TV TV",ITV
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
 http://51.52.156.22:8888/http/001
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/002
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/003
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/004
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/005
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/006
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/007
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/008
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/009
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/010
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/011
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/012
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1052589325395906561/cq1kZ-A1.jpg" group-title="UK TV",ITV
+http://51.52.156.22:8888/http/013
