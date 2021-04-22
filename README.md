@@ -403,13 +403,13 @@ https://www.dailymotion.com/cdn/live/video/x6zvnex.m3u8?sec=x-w46s6bBQ8jkTyQdnZO
 
 
 
-#EXTINF:-1 tvg-logo="https://www.survation.com/wp-content/uploads/2014/02/large-square-sky-news-logo.png" group-title="NEWS",Sky News
-https://cdn-laos.workpoint.news/uk-skynews_480/index.m3u8
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_MuWNJtJ8XS4/TQwUto6T4AI/AAAAAAAAF7s/Bbr5cw0iYNU/s400/fox-news-logo.jpg" group-title="NEWS",FOX NEWS
+http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-ID="Sky.AU" tvg-logo="http://static.epg.best/au/Action.au.png" group-title="NEWS",Australia Channel
 https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-logo="https://becomingselfmade.com/wp-content/uploads/2017/05/CNN-Logo.jpg" group-title="NEWS",CNN
-http://tv4iptv.ddns.net:80/live/8795449375/d6Ts37W9jx9/791.m3u8
+http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="NEWS",BBC WORLD NEWS
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
