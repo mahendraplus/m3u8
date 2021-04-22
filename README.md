@@ -1096,3 +1096,5 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
  (Astro Hua Hee Dai)
 http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/A/ary-news-logo-F2E62D53D8-seeklogo.com.png" group-title="PAK TV",ITV
+http://51.52.156.22:8888/http/001
