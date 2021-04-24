@@ -55,20 +55,12 @@ https://live.ptv.com.pk/live/stream/ptvhome/chunklist_w387091921.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" group-title="Pakistan",92 UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://www.parsatv.com/index_files/channels/expressnews.png" group-title="Pakistan" ,EXPRESS News
 https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/chunklist_w1782001223.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png/1200px-Lahore_News_Logo_%28For_Tv_Screen%29.pn" group-title="Pakistan",Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" group-title="Pakistan",Dunya News
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/1131554149/peacetv_400x400.jpg" group-title="Pakistan", Peace Tv Urdu
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61oLBxI2FOL._SY355_.png" group-title="Pakistan",Ibaadat tv
 http://livechannel.shemaroome.com/linearplayout/ibaadat-linear-channel/chunklist_640x360_cf.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/ARY_Qtv_logo.png" group-title="Pakistan",Q TV
-https://stream.arylive.com/QtvLive/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://a1tablecloth.com/wp-content/uploads/sites/11/2019/04/A1-Tablecloth-Co-Favicon.png" group-title="Pakistan", A1 TV 
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" group-title="Pakistan",Zindagi TV
@@ -103,8 +95,6 @@ https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.anjan.tv/templates/jf_sirena/custom/images/new_logo.png" group-title="HINDI",Anjan
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580000.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Enterr_10.png" group-title="HINDI",Enterr10
-http://streamitv.multitvsolution.in/idvo/enter10bangla.m3u8
 
 
 
@@ -156,8 +146,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTryfiUY5l_OBmTWGwd8SygddNMQOD-ynndbw&usqp=CAU" group-title="NEWS",BBC WORLD NEWS
 https://1111296894.rsc.cdn77.org/LS-ATL-54548-11/index.m3u8
-#EXTINF:-1 tvg-logo="https://sfbf.org.sg/wp-content/uploads/2017/10/nbc-news-logo-EDDBA8ADC9-seeklogo.com_.png" group-title="NEWS",NBC News Now
-https://nbcnewshls-i.akamaihd.net/hls/live/1005170/nnn_live1/index.m3u8
 
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7043c038-5072-4a91-adc3-af58fdd76a66/d95lf2f-39f28780-e2ee-420b-95a8-7a4ac222349f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvNzA0M2MwMzgtNTA3Mi00YTkxLWFkYzMtYWY1OGZkZDc2YTY2XC9kOTVsZjJmLTM5ZjI4NzgwLWUyZWUtNDIwYi05NWE4LTdhNGFjMjIyMzQ5Zi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.jDWgYopzF4TpNV-ccPvjSZFYkdLcEDqZxJWAniEQcHY" group-title="NEWS",Channel NewsAsia,CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
@@ -236,10 +224,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/230x230/public/images/tv-images/2019/07/09/Star-Vijay.jpg?itok=9rdzbDS6" group-title="TAMIL",STAR VIJAY
-http://216.144.250.174/Star_Vijay_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/222_300.png" group-title="TAMIL",Raj TV
-http://45.120.188.184/hdmi
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/kanak2_1.png" group-title="TAMIL",[COLOR green]:: TAMIL ::[/COLOR]
 #EXTINF:-1 tvg-logo="https://content.jdmagicbox.com/comp/chennai/56/044p3024356/catalogue/jaya-tv-ekkaduthangal-chennai-satellite-channels-0lfo6bzsbu.jpg" group-title="TAMIL",Jay
 http://livematrix.in:1935/live/jay/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.kalaignartv.co.in/logo.jpg" group-title="TAMIL", KalaignarTV
@@ -328,14 +313,8 @@ http://31.14.40.58:8080/ZEETELUGU_h264/index.m3u8
 
 
 
-#EXTINF:-1 ch-id="Channel 5" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/MediaCorp_Channel5.jpg/revision/latest/scale-to-width-down/340?cb=20151215100539" group-title="MY/SG",Channel 5
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1 tvg-group="MALAYSIA/SGP" tvg-logo="src="https://pbs.twimg.com/profile_images/1004174097390100480/Vazfjcvb_400x400.jpg"  group-title="MY/SG",Channel 5 
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
-#EXTINF:-1 ch-id="Channel 8" tvg-logo="https://www.loveexpress.com.sg/wp-content/uploads/2017/02/channel-8-logo.jpg" group-title="MY/SG",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 ch-id="Channel U" tvg-logo="https://unitechmech.com/wp-content/uploads/2018/05/image14.jpeg" group-title="MY/SG",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+
 #EXTINF:-1 ch-id="Channel NewsAsia" tvg-logo="https://www.themangrovelab.com/x/cdn/?https://storage.googleapis.com/wzukusers/user-29321638/images/5970749b5306f2CegOlQ/download.png" group-title="MY/SG",Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 ch-id="Astro Awani" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="MY/SG",Astro Awani
