@@ -98,23 +98,29 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/chunklist_w1499288356_b1580
 
 
 
+
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/keluarga_1.png" group-title="DOCUMENTARY",[COLOR aquamarine]:: DOCUMENTARY ::[/COLOR]
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/CGTNDocu.au.png" group-title="DOCUMENTARY",CGTN Documentary
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="DOCUMENTARY",Crime & Investigation
 http://203.154.243.31:15001
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="DOCUMENTARY",Docubox
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-289-canal-nat-geo-wild-hd.png" group-title="DOCUMENTARY",NAT GEO WILD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 
 
-#
 
 
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/Warner_Bros__Pictures-logo-E9C49FB159-seeklogo.com.png" group-title="MOVIES", WARNER TV
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Paramount_Network.svg" group-title="MOVIES",Paramount Channel
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://corp.xumo.com/wp-content/uploads/2015/06/brandTile_ElectricNow.png" group-title="MOVIES", Electric Now
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
- #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 
