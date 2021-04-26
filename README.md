@@ -141,8 +141,8 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180805/awa/kisspng-logo-ptv-sports-television-channel-pakistan-5b67b1983f6315.8991181315335223282597.jpg" group-title="SPORTS",PTV SPORTS
 http://109.169.15.52:8030/Can1/index.m3u8?token=b71ec2d8ea11b1a18938ff7d451c3501ea4a88d5-1619430475-1619430398
-
-
+#EXTINF:-1 tvg-logo="src="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png"" group-title="SPORTS",BEIN SPORT 7
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 
 
 
