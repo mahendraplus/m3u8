@@ -457,38 +457,20 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 
-#EXTINF:0, tvg-logo="https://i.imgur.com/SUKfC0I.png" group-title=" PUNJABI",Pitaara
-https://livepitaara.planetcast.in/pitaaraTV.m3u8
-#EXTINF:-1, tvg-logo="https://lh3.googleusercontent.com/TuBtNQEwrVWXoZWKR_-FiDezZPJChY1sxPUJa-0ICsVwRYxn0fWOR3BZJA68JUE9nA.png" group-title="PUNJABI",SADA PUNJAB
-http://edge-ind.inapcdn.in:1935/berry1/latest.stream_aac/chunklist_w1969180433.m3u8
-#EXTINF:-1,tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/roku/images/skyworth/v5/ptc_punjabi_roku.jpg" group-title="PUNJABI", PTC PUNJABI
-http://13.232.161.202:1935/PUNJABIIN/smil:Live.smil/chunklist_w329593915_b296000_sleng.m3u8
+
+
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI",Jhanjar Music
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_jfxhK2eyITRN0knuTnNo2g5swco5-gaY3URGoUIAi509gGnd&usqp=CAU.png" group-title="PUNJABI",Only Music
-http://live.wmncdn.net/onlymusic/121aa21ccf27315cb17e40355f47ac1c.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/MH_One.jpg/revision/latest/scale-to-width-down/340?cb=20180625063419" group-title="PUNJABI",MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61D6ZtM6-cL._SY355_.png" group-title="PUNJABI",P Tunes
-https://streamidvo.multitvsolution.in/live/PTunes-d/p4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="PUNJABI",Life Punjabi
-http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Zee_Punjabi_2020.png/revision/latest?cb=20191217124346g" group-title="PUNJABI",Zee Punjabi
-http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/zeepunjabi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="PUNJABI",Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="PUNJABI",BritAsia TV 
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" group-title="PUNJABI",Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51s-Do%2B8arL._SY355_.png" group-title="PUNJABI",Global Punjab
-https://wowzaprod207-i.akamaihd.net/hls/live/827936/2eba5b83/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRd-ZfSBPRgQa7KhMFVUA0c9OwA4uxDzkvpRZQKF5fyu0AlEKem&usqp=CAU.png" group-title="PUNJABI",MH1 Prim
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
-#EXTINF:0,tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="PUNJABI",TV Punjab
-http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:0  tvg-logo="https://image.winudf.com/v2/image/ZmFzdHdheS5saXZlX3R2X2NoYW5uZWxfaWNvbl8wXzEwOTk5Y2Ux/icon.png?w=170&fakeurl=1" group-title="PUNJABI",FastWay  
 http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="PUNJABI",DD National 
