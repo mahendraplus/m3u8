@@ -72,8 +72,10 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI"" ,SONYMAX
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI"" ,SONY MAX
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2NHGIO3H6UA/WyjB50NzflI/AAAAAAAAAa0/7SJhkYOtxywFz5UJUmtjww47MJNCOAUAwCLcBGAs/s1600/Max_2.jpg" group-title="HINDI"" ,SONY MAX2
+http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532"  group-title="HINDI",MANORANJAN MOVIES
