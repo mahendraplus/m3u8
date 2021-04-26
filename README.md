@@ -134,8 +134,6 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
 
 
-
-
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
@@ -143,6 +141,12 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://109.169.15.52:8030/Can1/index.m3u8?token=b71ec2d8ea11b1a18938ff7d451c3501ea4a88d5-1619430475-1619430398
 #EXTINF:-1 tvg-logo="src="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png"" group-title="SPORTS",BEIN SPORT 7
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/77/One_Sports_%28TV_channel%29_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200620055210" group-title="SPORTS",One SPORTS
+http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
+
+
+
 
 
 
