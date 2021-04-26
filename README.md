@@ -72,7 +72,7 @@ https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,SONY TV
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/f8/63/90f86325ed252168944682f2541e6aaa.jpg" group-title="HINDI"" ,SONY TV
 http://208.115.215.42/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI"" ,BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
