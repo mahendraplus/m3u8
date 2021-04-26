@@ -71,7 +71,8 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI"" ,SONY MAX
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2NHGIO3H6UA/WyjB50NzflI/AAAAAAAAAa0/7SJhkYOtxywFz5UJUmtjww47MJNCOAUAwCLcBGAs/s1600/Max_2.jpg" group-title="HINDI"" ,SONY MAX2
