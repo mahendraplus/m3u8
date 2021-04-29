@@ -128,6 +128,10 @@ https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="DOCUMENTARY",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="DOCUMENTARY",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
@@ -155,7 +159,6 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 http://109.169.15.52:8030/Can1/index.m3u8?token=b71ec2d8ea11b1a18938ff7d451c3501ea4a88d5-1619430475-1619430398
 #EXTINF:-1 tvg-logo="src="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png"" group-title="SPORTS",BEIN SPORT 7
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/77/One_Sports_%28TV_channel%29_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200620055210" group-title="SPORTS",One SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2396/brand.gif?itok=nff-Q9JP" group-title="SPORTS",TEN SPORT
@@ -230,12 +233,6 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="DOCUMENTARY",
-#EXTINF:-1 tvg-logo="https://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="Entertainment",People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="Entertainment",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
