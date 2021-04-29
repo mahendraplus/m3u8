@@ -67,9 +67,8 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="Pakistan",Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="Pakistan",Tag TV (Opt-2)
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="Pakistan",Subrang TV (USA)
+https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://img2.pngio.com/star-plus-logopedia-fandom-star-plus-png-580_580.png" group-title="HINDI"" , STAR PLUS HD
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
@@ -477,6 +476,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/star_world/05.m3u8
 
 
 
+#EXTINF:0,tvg-logo="https://pbs.twimg.com/profile_images/1103932714028158976/nQ0S8icS.png" group-title="PUNJABI",PITARAA HD
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="PUNJABI",Jhanjar HD
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:0,tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="PUNJABI",Jhanjar Music
