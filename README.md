@@ -164,7 +164,12 @@ http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b62800
 http://174.128.248.2:80/ten-123456/tracks-v1a1/mono.m3u8?token=849804780c895f511b70b051beca43c9445bc9fd-R5R820F4OPVNKB11-1619514502-1619503702
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1" group-title="SPORTS",FOX Sports 1
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=2" group-title="SPORTS",FOX Sports 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=3" group-title="SPORTS",FOX Sports 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_MuWNJtJ8XS4/TQwUto6T4AI/AAAAAAAAF7s/Bbr5cw0iYNU/s400/fox-news-logo.jpg" group-title="NEWS",FOX NEWS
