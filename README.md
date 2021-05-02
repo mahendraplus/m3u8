@@ -170,6 +170,11 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=3" group-title="SPORTS",FOX Sports 3
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", ESPN 2
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", ESPN 
+https://gma2.blab.email/espn2.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_MuWNJtJ8XS4/TQwUto6T4AI/AAAAAAAAF7s/Bbr5cw0iYNU/s400/fox-news-logo.jpg" group-title="NEWS",FOX NEWS
