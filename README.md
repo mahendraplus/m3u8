@@ -162,7 +162,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/77/One_Sports_%28TV_channel%29_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200620055210" group-title="SPORTS",One SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2396/brand.gif?itok=nff-Q9JP" group-title="SPORTS",TEN SPORT
-http://174.128.248.2:80/ten-123456/tracks-v1a1/mono.m3u8?token=849804780c895f511b70b051beca43c9445bc9fd-R5R820F4OPVNKB11-1619514502-1619503702
+http://174.128.248.2:80/ten-123456/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="SPORTS",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2013/03/fox-sports.jpg?w=681&h=349&crop=1" group-title="SPORTS",FOX Sports 1
