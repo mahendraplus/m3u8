@@ -235,7 +235,7 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 
-#EXTINF:-1 ch-id="TV1" tvg-logo="https://s3.amazonaws.com/playstore/images/ff9ed9b503bc5984c2cc5085ebf4d4f5" group-title="MY/SG",TV1
+#EXTINF:-1 ch-id="TV1" tvg-logo="https://pbs.twimg.com/profile_images/1367681450913402883/kNl8DoxK_400x400.jpg" group-title="MY/SG",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 #EXTINF:-1 ch-id="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="MY/SG",TV2 
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
