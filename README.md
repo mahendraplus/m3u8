@@ -253,7 +253,7 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 ch-id="1news" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwngAmoG8dpv_fiDW8UjbZV1LdV-PPJqIy_rvMvH4LQ=s900-c-k-c0x00ffffff-no-rj" group-title="MY/SG",1 NEWS
 https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b4064000.m3u8
-#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="DOCUMENTARY",ALHIJRAH
+#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MY/SG",ALHIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 
