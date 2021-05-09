@@ -132,6 +132,10 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="DOCUMENTARY",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://www.bluestarcooking.com/wp-content/uploads/2019/11/th_HGTV-1.jpg" group-title="DOCUMENTARY",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="DOCUMENTARY",HISTORY
+http://50.7.161.82:8278/streams/d/HISTORY/playlist.m3u8
 
 
 
