@@ -135,9 +135,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://www.bluestarcooking.com/wp-content/uploads/2019/11/th_HGTV-1.jpg" group-title="DOCUMENTARY",HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="DOCUMENTARY",HISTORY
-http://50.7.161.82:8278/streams/d/History/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="DOCUMENTARY",ALHIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
 
 
 
