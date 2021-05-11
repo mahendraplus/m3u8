@@ -146,9 +146,6 @@ http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyadokwoihjb5IKE7MmxfLphwMfvWLmATvtoazrPYmNijw55KIedTCvIqoIxKlgio0KY&usqp=CAU" group-title="MOVIES",HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1c/39/ac/1c39ac9f3fff6c2ff6e2759db7604b16.jpg" group-title="MOVIES", HBO 
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/Warner_Bros__Pictures-logo-E9C49FB159-seeklogo.com.png" group-title="MOVIES", WARNER TV
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9f/Paramount_Network.svg" group-title="MOVIES", Paramount Channel
@@ -695,3 +692,16 @@ https://www.googleapis.com/drive/v3/files/1WWJCIZqPKmrDTcrQuoUcjcuMVP-MZEX7?alt=
 https://www.googleapis.com/drive/v3/files/1EKH3FAOHQ5cxxHBsRqJXGUayZCv-UALz?alt=media&key=AIzaSyA7vYd5p8-RKvaJHK1mu2cs21iQ6tgsId8
 #EXTINF:-1 tvg-logo="http://185.238.0.145:1313/uploads/video_thumb/6.jpg" group-title="VOD MOVIE ALL",EMMA (2020)
 https://www.googleapis.com/drive/v3/files/1qEt5nb2vX20H3sEyLxqefOpaPf6l7MB6?alt=media&key=AIzaSyC0Gi9fixEJ2IbbYTGb-4fROrQkHTT-Ox8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1c/39/ac/1c39ac9f3fff6c2ff6e2759db7604b16.jpg" group-title="MOVIES", HBO 
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
