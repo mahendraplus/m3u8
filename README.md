@@ -152,8 +152,10 @@ https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyadokwoihjb5IKE7MmxfLphwMfvWLmATvtoazrPYmNijw55KIedTCvIqoIxKlgio0KY&usqp=CAU" group-title="MOVIES",HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/1c/39/ac/1c39ac9f3fff6c2ff6e2759db7604b16.jpg" group-title="MOVIES",HBO 
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
+
 
 
 
