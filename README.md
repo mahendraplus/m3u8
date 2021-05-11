@@ -154,7 +154,8 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 https://a.jsrdn.com/broadcast/vf93fRSk7/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="MOVIES",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
+#EXTINF:-1 tvg-logo="src="https://d2z1w4aiblvrwu.cloudfront.net/brand/Ag4/Ag4_large.png"" group-title="MOVIES", WARNER TV(Asia)
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
 
 
