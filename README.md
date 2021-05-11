@@ -181,7 +181,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 https://gma2.blab.email/espn2.m3u8
 #EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", ESPN 
 https://gma2.blab.email/espn2.m3u8
-
+#EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_MuWNJtJ8XS4/TQwUto6T4AI/AAAAAAAAF7s/Bbr5cw0iYNU/s400/fox-news-logo.jpg" group-title="NEWS",FOX NEWS
