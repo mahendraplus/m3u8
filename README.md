@@ -126,8 +126,10 @@ http://203.154.243.31:15001
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-289-canal-nat-geo-wild-hd.png" group-title="DOCUMENTARY",NAT GEO WILD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="DOCUMENTARY", DISCOVERY ASIA
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://zypechris.wpengine.com/wp-content/uploads/2019/09/peopletv_logo-140x36-low.png" group-title="DOCUMENTARY",People TV
 https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A4GMBN6.png" group-title="DOCUMENTARY",Red Bull TV
@@ -136,8 +138,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="DOCUMENTARY",HISTORY
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/history-logo-4EA08324CE-seeklogo.com.png" group-title="DOCUMENTARY", BIZNET
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUXAxy_KPghXcqRzrp2SB59bDjtP5IQ9gGC8E9h5Ir59HzRxGMKb9eL0UhnDVHEbMYeM&usqp=CAU" group-title="DOCUMENTARY", ANIMAL PLANET
+https://livecdn.fptplay.net/qnetlive/animalplanet_1000.stream/chunklist.m3u8
 
 
 
@@ -156,9 +160,10 @@ http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="src="https://cms.cignal.tv/Upload/Images/Fox-Life.jpg"" group-title="MOVIES", FOXLIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="src="https://www.infotelevisi.com/asset/logotv/56b6c3c5f37c3-celestial_movies.jpg"" group-title="MOVIES", CELESTIAL MOVIES
+http://210.210.129.106:80/session/0ed49702-afd7-11eb-9d1b-b5f7a8735d4a/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLsWgOMJ42whI52qqjQhEv7VZcOa29VnODoQtTxYy0RZdHlPjAR6YbCGY5bxpaGmn-NY&usqp=CAU"" group-title="MOVIES",HITS
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 
 
 
@@ -183,8 +188,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", ESPN 2
 https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", ESPN 
-https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1 tvg-logo="https://www.carsonevents.com/wp-content/uploads/2017/09/espn2.png" group-title="SPORTS", MUX SPORTS
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30240
 #EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
