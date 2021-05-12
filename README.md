@@ -164,7 +164,8 @@ http://210.210.129.106:80/session/0ed49702-afd7-11eb-9d1b-b5f7a8735d4a/qwr9ew/s/
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
 #EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg"" group-title="MOVIES", THRILLS
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
-
+#EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg"" group-title="MOVIES",TVN MOVIES
+http://210.210.129.106:80/session/1dea1ffa-b310-11eb-ae6d-ba03834cb919/dr9445/h/h21/01.m3u8
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
