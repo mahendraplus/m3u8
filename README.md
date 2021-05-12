@@ -37,10 +37,8 @@ https://streamer12.vdn.dstreamone.net/jctv/jctv/chunks.m3u8
 https://livecdn.live247stream.com/praise/tv/praise/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/7103X%2BcIkdL.png" group-title="Pakistan" ,BTL TV
 https://livecdn.live247stream.com/btl/tv/btl/stream1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple114/v4/2d/cf/06/2dcf0608-4b76-0a11-df33-b8d838fa6e45/source/512x512bb.jpg" group-title="Pakistan" ,JAIRUS TV
 https://livecdn.live247stream.com/jairus/tv/jairus/stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/378800000855520832/9e9fcd7285efa896097d022b41b57021_400x400.png" group-title="Pakistan",GAWAHI TV
 https://livecdn.live247stream.com/gawahi/tv/gawahi/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www03.hoshana.com/assets/img/tv_icon/mission-asia-logo.jpg" group-title="Pakistan",Mission tv
@@ -164,7 +162,8 @@ http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 http://210.210.129.106:80/session/0ed49702-afd7-11eb-9d1b-b5f7a8735d4a/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDLsWgOMJ42whI52qqjQhEv7VZcOa29VnODoQtTxYy0RZdHlPjAR6YbCGY5bxpaGmn-NY&usqp=CAU"" group-title="MOVIES",HITS
 http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="src="https://pbs.twimg.com/profile_images/611838002206146560/UQS0dlPO.jpg"" group-title="MOVIES", THRILLS
+http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
 
 
 #EXTINF:0, tvg-logo="https://raw.githubusercontent.com/suaji/testing/master/icon_menu/sukan_1.png" group-title="SPORTS",[COLOR crimson]::: SPORTS :::[/COLOR]
