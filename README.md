@@ -75,6 +75,8 @@ http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42:80/Sony_Tv_HD_01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Sony_Max_Deewana_Bana_De.jpg/revision/latest?cb=20190525052814" group-title="HINDI"" ,SONY MAX
 http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-wah-logo-300x300.jpg" group-title="HINDI"" ,SONY WAH
+http://208.115.215.42:80/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2NHGIO3H6UA/WyjB50NzflI/AAAAAAAAAa0/7SJhkYOtxywFz5UJUmtjww47MJNCOAUAwCLcBGAs/s1600/Max_2.jpg" group-title="HINDI"" ,SONY MAX2
 http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tl.vhv.rs/dpng/s/499-4993823_new-zee-tv-logo-pngsrc-data-dish-network.png" group-title="HINDI"" , ZEE TV HD
