@@ -176,6 +176,8 @@ http://109.169.15.52:8030/Can1/index.m3u8?token=b71ec2d8ea11b1a18938ff7d451c3501
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/77/One_Sports_%28TV_channel%29_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200620055210" group-title="SPORTS",One SPORTS
 http://103.11.112.28:1935/live2/smil:onesports.smil/chunklist_w1210079406_b628000.m3u8
+#EXTINF:-1 tvg-logo="src="https://simg.nicepng.com/png/small/43-439776_fightchannel-logo-fight-channel-world-hd.png"" group-title="SPORTS", FIGHT TV
+http://210.210.129.106:80/session/10c0ce96-afc8-11eb-a8fe-a197a61aca83/uq2663/h/h05/02.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0025/2396/brand.gif?itok=nff-Q9JP" group-title="SPORTS",TEN SPORT
 http://174.128.248.2:80/ten-123456/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/in/DDSports.in.png" group-title="SPORTS",DD Sports
@@ -281,8 +283,10 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MY/SG",ALHIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JVhmplsZ1dWKGxypljeM9bt46MqXsBiC7PvPGdZCQyPFzhsIpToekH9ub_CABIKR9c0&usqp=CAU" group-title="MY/SG",OKEY
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",BARNAMA
+http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
 
 
 
