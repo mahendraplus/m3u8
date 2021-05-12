@@ -209,7 +209,8 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30246
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30247
 #EXTINF:-1 tvg-logo="https://img.apksum.com/63/com.beinsports.andcontent/5.0.5/icon.png" group-title="SPORTS", BEINSPORTS
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
-
+#EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200203469/original/d273dfd4f7b1f624f9cf14a31854c5f058591c15/make-an-amazing-unique-luxury-tennis-logo-design-in-12-hours-delivery.jpg" group-title="SPORTS", TENNIS
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 
 
 
