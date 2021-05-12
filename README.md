@@ -124,6 +124,8 @@ http://203.154.243.31:15001
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-289-canal-nat-geo-wild-hd.png" group-title="DOCUMENTARY",NAT GEO WILD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1897871604/facebookthumbnail.jpg" group-title="DOCUMENTARY",NATIONAL GEPGRAPHIC
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png" group-title="DOCUMENTARY", DISCOVERY CHANNEL
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DISCOVERY-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="DOCUMENTARY", DISCOVERY ASIA
