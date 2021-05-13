@@ -290,7 +290,7 @@ http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img1.pnghut.com/t/6/24/15/tw9St1H84r/yellow-television-broadcasting-tv-alhijrah-area.jpg" group-title="MY/SG",ALHIJRAH
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1JVhmplsZ1dWKGxypljeM9bt46MqXsBiC7PvPGdZCQyPFzhsIpToekH9ub_CABIKR9c0&usqp=CAU" group-title="MY/SG",OKEY
+#EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",HELLO
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 #EXTINF:-1 tvg-logo="https://lgms.global/wp-content/uploads/2020/04/Bernama.jpg" group-title="MY/SG",BARNAMA
 http://50.7.161.82:8278/streams/d\/Bernama/playlist.m3u8
