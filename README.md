@@ -218,7 +218,8 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30247
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30248
 #EXTINF:-1 tvg-logo="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/200203469/original/d273dfd4f7b1f624f9cf14a31854c5f058591c15/make-an-amazing-unique-luxury-tennis-logo-design-in-12-hours-delivery.jpg" group-title="SPORTS", TENNIS
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
+#EXTINF:-1 tvg-id="StarSports.hk" tvg-name="Star Sports" tvg-country="SAS" tvg-language="English" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="SPORTS",Star Sports
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_MuWNJtJ8XS4/TQwUto6T4AI/AAAAAAAAF7s/Bbr5cw0iYNU/s400/fox-news-logo.jpg" group-title="NEWS",FOX NEWS
