@@ -65,6 +65,8 @@ http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" group-title="Pakistan",Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://pbs.twimg.com/profile_images/755634951652052993/a0plrfA7_400x400.jpg" group-title="Pakistan",ASHARFI TV
+http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e319a144157461.Y3JvcCw1MTksNDA2LDIyOCw3OQ.jpeg" group-title="Pakistan", LOLLYWOOD
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
