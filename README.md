@@ -179,7 +179,7 @@ http://210.210.129.106:80/session/1dea1ffa-b310-11eb-ae6d-ba03834cb919/dr9445/h/
 #EXTINF:-1 tvg-logo="http://onegolftv.com/wp-content/uploads/2018/08/onegolf-HD-with-image-100px.png" group-title="SPORTS",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 tvg-logo="https://icon2.cleanpng.com/20180805/awa/kisspng-logo-ptv-sports-television-channel-pakistan-5b67b1983f6315.8991181315335223282597.jpg" group-title="SPORTS",PTV SPORTS
-http://109.169.15.52:8030/Can1/index.m3u8?token=b71ec2d8ea11b1a18938ff7d451c3501ea4a88d5-1619430475-1619430398
+https://live-kcs.cdnvideo.ru/shaamtv/superleag/chunklist.m3u8
 #EXTINF:-1 tvg-logo="src="https://stage.bein.com/mena/en/wp-content/uploads/sites/3/2020/06/HD7-1-1.png"" group-title="SPORTS",BEIN SPORT 7
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/30242
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/77/One_Sports_%28TV_channel%29_Logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200620055210" group-title="SPORTS",One SPORTS
