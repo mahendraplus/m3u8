@@ -22,7 +22,7 @@ https://livecdn.live247stream.com/eternallife/tv/eternallife/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMBaZRjFQ6CiX8b-DJwcmjWAKrdkJrVZMJQ&usqp=CAU" group-title="Pakistan" ,FAZAL TV
 https://livecdn.live247stream.com/fazal/tv/fazal/stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71SgJT0%2BjwL.png" group-title="Pakistan" ,EMMANUEL TV
-http://api.new.livestream.com/accounts/23202872/events/7200883/live.m3u8
+https://hls-live-web-media.cdn01.net/default/stream_39565_1.m3u8?WkCq0_NbneiOXnSMNol2aihYGPY5RwGDFxyb8XEoNh4Jk-40IHQZfU1Sv6g2DSm4ODQ8XL8me9sEhoLRxcOh8h7jkd8EonOeOfJ2qYWlxokHTVMYzDyY4jN93c9ZtmXPwStFlF3gj8z-BwdAbZEOrcnna6re9-izRhIo8ADN6OQdG1LH7TIf0gDWs0HFYbi8biuSCvHpbFg&channel_id=39565&source=othersites&device_id=1092006353-c73bcab9eb6b16296f1d8515e9e39723&lcp=2&client_id=333468074658214368&play_id=1623303066258616
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71usSZ03TiL.png" group-title="Pakistan" ,BARKAT TV
 https://streamer12.vdn.dstreamone.net/barkattv/dexpo/playlist.m3u8?720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.joystar.tv/images/logo.png" group-title="Pakistan" ,JOYSTAR TV
